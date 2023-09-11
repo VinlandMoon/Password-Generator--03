@@ -3,14 +3,11 @@
 
 ## Description
 What was your motivation?
-Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-What problem does it solve?
-What did you learn?
-What makes your project stand out?
-What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+
+
+- I created this tool to help users safeguard their online presence with a secure password generator.
+- The random password generator quickly creates secure passwords for any account or website.
+- My motivation for creating this project was to make internet safety easily accessible.
 
 
 ## Installation
